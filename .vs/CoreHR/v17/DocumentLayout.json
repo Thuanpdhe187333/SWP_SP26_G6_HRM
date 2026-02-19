@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EBOOK\\SWP_SP26\\CoreHR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|d:\\ebook\\swp_sp26\\corehr\\corehr\\controllers\\employmentcontractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|solutionrelative:corehr\\controllers\\employmentcontractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|d:\\ebook\\swp_sp26\\corehr\\corehr\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|solutionrelative:corehr\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|d:\\ebook\\swp_sp26\\corehr\\corehr\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|solutionrelative:corehr\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|d:\\ebook\\swp_sp26\\corehr\\corehr\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|solutionrelative:corehr\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|d:\\ebook\\swp_sp26\\corehr\\corehr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|solutionrelative:corehr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|d:\\ebook\\swp_sp26\\corehr\\corehr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B9CA78C-A05B-4D6C-9684-99ACBD8E5262}|CoreHR\\CoreHR.csproj|solutionrelative:corehr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1285158110:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploymentContractsController.cs",
+              "DocumentMoniker": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Controllers\\EmploymentContractsController.cs",
+              "RelativeDocumentMoniker": "CoreHR\\Controllers\\EmploymentContractsController.cs",
+              "ToolTip": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Controllers\\EmploymentContractsController.cs",
+              "RelativeToolTip": "CoreHR\\Controllers\\EmploymentContractsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:05:45.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CoreHR\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CoreHR\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:04:12.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CoreHR\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CoreHR\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:40:52.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "CoreHR\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "CoreHR\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:00:27.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreHR\\appsettings.json",
+              "ToolTip": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\appsettings.json",
+              "RelativeToolTip": "CoreHR\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T13:07:53.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Program.cs",
+              "RelativeDocumentMoniker": "CoreHR\\Program.cs",
+              "ToolTip": "D:\\EBOOK\\SWP_SP26\\CoreHR\\CoreHR\\Program.cs",
+              "RelativeToolTip": "CoreHR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:03:48.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
